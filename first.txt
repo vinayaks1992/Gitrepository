@@ -1,6 +1,8 @@
 Im ok with this
-removed one file from this file
+removed one file from this filgge
 This is my first file
 i am going to check this in git
 its fun to learn git
+including 1 line
+
 added new line in the bottem
